@@ -98,7 +98,11 @@ You can see the **[My Home Page](https://www.xiaoyaosun.com)**
 [Legion](https://www.dwhd.org)  
 [Skiychan](https://www.skiy.net)
 
-## Author
-Author: Sunny Wang
-Email:  xiaoyaosun@qq.com
-Link:   http://www.xiaoyaosun.com
+## Contact Me
+```Author:
+   Sunny Wang
+Email:
+   xiaoyaosun@qq.com
+Link:
+   http://www.xiaoyaosun.com
+```
