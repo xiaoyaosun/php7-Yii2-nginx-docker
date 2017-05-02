@@ -2,7 +2,7 @@
 
 # Nginx and PHP and Yii2.0 for Docker
 
-## Last Version
+## Lastest Version
 nginx: **1.11.6**   
 php:   **7.1.3**
 
@@ -99,7 +99,8 @@ You can see the **[My Home Page](https://www.xiaoyaosun.com)**
 [Skiychan](https://www.skiy.net)
 
 ## Contact Me
-```Author:
+```
+Author:
    Sunny Wang
 Email:
    xiaoyaosun@qq.com
