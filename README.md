@@ -25,7 +25,9 @@ You can then browse to http://\<docker_host\>:8092 to view the default install f
 ## Volumes
 If you want to link to your web site directory on the docker host to the container run:
 ```sh
-docker run --name nginx -p 8092:8092 -v /your_code_directory:/data/www -d xiaoyaosun/nginx-php7-yii2.0:latest
+docker run --name php7-Yii2-nginx -d -p 8092:8092 
+                        -v /your_code_directory:/data/www 
+                        xiaoyaosun/nginx-php7-yii2.0:latest
 ```
 
 ## Enabling SSL
@@ -103,7 +105,7 @@ You can see the **[My Home Page](https://www.xiaoyaosun.com)**
 Author:
    Sunny Wang
 Email:
-   xiaoyaosun@qq.com
+   xiaoyaosun AT qq DOT com
 Link:
    http://www.xiaoyaosun.com
 ```
